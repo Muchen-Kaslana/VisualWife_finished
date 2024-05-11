@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/desktopRole/rotate.gif</file>
+        <file>resource/desktopRole/cut.png</file>
+        <file>resource/button/quit.png</file>
+        <file>resource/button/sub.png</file>
+        <file>resource/desktopRole/xinhai.gif</file>
+        <file>resource/desktopRole/huangnv.gif</file>
+        <file>resource/button/music_player.png</file>
+        <file>resource/music.mp3</file>
+        <file>resource/desktopRole/bailu_matting.gif</file>
+        <file>resource/desktopRole/fufu_matting.gif</file>
+        <file>resource/desktopRole/nilu_matting.gif</file>
+        <file>resource/desktopRole/fuxuan_matting.gif</file>
+    </qresource>
+</RCC>
